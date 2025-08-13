@@ -1,4 +1,5 @@
-🏥 Medical Insurance Price Prediction
+#🏥 Medical Insurance Price Prediction
+
 📌 Project Overview
 This notebook predicts individual medical insurance charges based on personal attributes like age, BMI, smoking habits, gender, and region. It demonstrates the use of Linear Regression and Exploratory Data Analysis (EDA) in Python.
 
